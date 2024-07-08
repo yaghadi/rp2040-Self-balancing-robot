@@ -1,4 +1,4 @@
-# rp2040-freertos-template
-This is a template project for developing FreeRTOS based applications on Raspberry Pi RP2040 based boards. This template uses the "official" RP2040 port from the Raspberry Pi Foundation. My previous repo used the generic Cortex M0 port so this one corrects that. Previous Repo retained as tutorials rely on it. 
+# rp2040 Self-balancing Robot 
+So, recently I've been working on a Self-balancing robot with Pi pico, MPU6050, and stepper motors and showing eyes on the MAX7219 dot matrix 
 
-Unmodified, this project will spawn a single task to rapidly blink the LED on and off.
+At the current state of the robot , I still have not managed to get the robot to balance yet. 
