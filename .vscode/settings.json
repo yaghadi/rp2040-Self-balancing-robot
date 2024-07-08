@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "hc-05.h": "c",
+        "string.h": "c",
+        "pico_servo.h": "c",
+        "robot_control.h": "c",
+        "stdio.h": "c"
+    }
+}
